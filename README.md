@@ -14,3 +14,9 @@ Branches de bugs
 * bug/erro-a1
 * bug/erro-a2
 * bug/erro-a3
+
+Estrutura de pastas
+* html: arquivos html
+* logo: logos do sistema
+* photos: imagens em resolução original
+* thumbnails: imagens em resolução reduzida
